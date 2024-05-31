@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e Frameworks</h3>
+<h3 align="center">🛠 Linguagens e Frameworks</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -35,8 +35,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaotadeu&show_icons=true&locale=en&layout=compact" alt="joaotadeu" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joaotadeu&" alt="joaotadeu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaotadeu&show_icons=true&locale=en&layout=compact" alt="joaotadeu" />
 <p> 
 
 
