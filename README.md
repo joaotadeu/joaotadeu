@@ -27,7 +27,15 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" />
   <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
+
+##
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotadeu&layout=compact&theme=blue-green)](https://github.com/joaotadeu/github-readme-stats) 
+
+###
+
 </div>
 
 ###
 
+###
