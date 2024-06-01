@@ -1,7 +1,6 @@
 ###
-
 <h1 align="center">Olá, Bem vindos <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> </h1>
-
+##
 ###
 
 <div align="center">
