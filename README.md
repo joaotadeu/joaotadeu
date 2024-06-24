@@ -34,8 +34,9 @@
 ##
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotadeu&layout=compact&theme=blue-green)](https://github.com/joaotadeu/github-readme-stats) 
-
+        <a href="http://www.github.com/joaotadeu"><img src="https://github-readme-stats.vercel.app/api?username=joaotadeu&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaotadeu's GitHub stats" /></a>
 ###
+
 
 </div>
 
