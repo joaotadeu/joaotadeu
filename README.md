@@ -17,16 +17,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" height="40"  alt="cucumber logo" />
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" alt="selenium logo" />
-  <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s160-c-k-c0x00ffffff-no-rj" height="40" />
-  <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" />
-  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="36" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="36" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" height="36"  alt="cucumber logo" />
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="36" alt="selenium logo" />
+  <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s160-c-k-c0x00ffffff-no-rj" height="36" />
+  <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="36" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="36" />
+  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" />
+  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" />
+  
 
 ##
   
